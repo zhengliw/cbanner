@@ -141,11 +141,11 @@ const char CBANNER_LETTERS [][CBANNER_LETTER_HEIGHT][CBANNER_LETTER_WIDTH] = {
 		"----- ",
 	},
 	{
-		"------",
-		"   |  ",
-		"   |  ",
-		"   |  ",
-		"   -  ",
+		"----- ",
+		"  |   ",
+		"  |   ",
+		"  |   ",
+		"  -   ",
 	},
 	{
 		"-    -",
