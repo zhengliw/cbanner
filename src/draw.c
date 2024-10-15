@@ -63,6 +63,7 @@ char * cb_generate (const char * line) {
 	}
 	memset(ret_str, '\0', ret_str_size);
 	_cb_paint_line(index_list, index_list_size, ret_str, ret_str_line_size);
+	free(index_list);
 	return ret_str;
 }
 
